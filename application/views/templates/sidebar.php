@@ -27,7 +27,7 @@
 
   </style>
     <a class="nav-link pb-0" href="<?= base_url('Buku/kategori'); ?>">
-       <i class="fas fa-book-open"></i>
+    <i class="fas fa-wallet"></i>
         <span>Kategori Buku</span></a>
 </li>
 
